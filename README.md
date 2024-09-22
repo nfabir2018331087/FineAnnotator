@@ -28,6 +28,13 @@ In this era of deep learning, data is the bedrock of any model, including Chatgp
 *	The user can conceal and reveal personal information whenever they desire to.
 *	User can update their information.
 
+### Team Members
+1. Nafis Fuad Abir
+2. Nihal Baig
+3. Nishat Rahman
+4. Nazmun Nahar Tui
+5. Nazmus Sadat
+
 
 
 
